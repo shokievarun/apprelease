@@ -18,7 +18,7 @@ pipeline {
         The pipeline ${JOB_NAME} has completed successfully.<br><br>
         Build Number: ${BUILD_NUMBER}<br>
         Status: ${BUILD_STATUS}<br>
-        APK drive path: <a href="https://drive.google.com/drive/folders/1ijhUBIMN2pwnaJsgsic3tEvUVyQonL5j?usp=sharing">APK Link</a><br><br>
+        APK drive path: <a href="https://drive.google.com/drive/folders/14a69gHHh7lvg_hfZaRL10KK6V3R6dArK?usp=sharing">APK Link</a><br><br>
         This is an auto-generated email.<br>
         Please send an email to the DevOps team in case of any concerns.<br><br>
         Thanks,<br>
