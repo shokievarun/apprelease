@@ -2,7 +2,7 @@ pipeline {
   agent {label 'master' }
 
   environment {
-        RECIPIENTS = 'talktomanjunath@gmail.com'
+        RECIPIENTS = 'talktomanjunath248@gmail.com'
         START_SUBJECT = '${JOB_NAME} - Build # ${BUILD_NUMBER} Started'
         START_BODY = '''\
         Hi Team,<br><br>
